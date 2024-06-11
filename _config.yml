@@ -60,6 +60,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 collections:
   posts:
     title: Posts # Needed for Siteleaf
+    future: true
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
@@ -103,6 +104,7 @@ email: "frowth.com@gmail.com"
 # service_worker: false # Will turn off the service worker if set to false
 # short_name: "Al" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+future : true
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
