@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{주식회사 프로스 공식 github 페이지 입니다.}
   spec.description   = "주식회사 프로스 공식 github 페이지 입니다."
-  spec.homepage      = "https://newsdao.kr"
+  spec.homepage      = "https://frowth-official.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
