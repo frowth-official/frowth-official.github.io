@@ -17,6 +17,7 @@ excerpt: >-
 ## 프로스 운영 사이트
 
 - [뉴스다오](https://newsdao.kr)
+- [파트너식스](https://partnersix.com)
 - [X(Twitter)](https://x.com/frowth_official)
 - [Velog](https://velog.io/@frowth_official/posts)
 - [Threads](https://www.threads.net/@frowth_official)
