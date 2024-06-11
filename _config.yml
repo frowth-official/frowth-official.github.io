@@ -92,7 +92,7 @@ lang: ko-KR # Set the site language
 title: "frowth" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "주식회사 프로스 공식 github 페이지 입니다." # Site description and default description, also used in jekyll-seo-tag
-url: "https://newsdao.kr" # Site url, also used in jekyll-seo-tag
+url: "https://frowth-official.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/frowth-official/frowth-official.github.io"
 email: "frowth.com@gmail.com"
@@ -119,8 +119,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Blog
-  url: /blog/
 
 navigation_footer:
 - title: 주식회사 프로스
