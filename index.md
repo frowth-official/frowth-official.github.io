@@ -13,8 +13,8 @@ excerpt: >-
 
 ## 프로스 운영 사이트
 
-- <a href="https://newsdao.kr" rel="dofollow">뉴스다오</a>
-- <a href="https://partnersix.com" rel="dofollow">파트너식스</a>
+- <a href="https://newsdao.kr" rel="dofollow">newsdao.kr</a>
+- <a href="https://partnersix.com" rel="dofollow">partnersix.com</a>
 - [X(Twitter)](https://x.com/frowth_official)
 - [Velog](https://velog.io/@frowth_official/posts)
 - [Threads](https://www.threads.net/@frowth_official)
