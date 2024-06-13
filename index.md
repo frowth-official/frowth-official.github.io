@@ -23,7 +23,7 @@ excerpt: >-
 ---
 
 <ul class="post-list">
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:2 %}
     <li class="post-item">
       <a href="{{ post.url }}">
         <div class="post-box">
