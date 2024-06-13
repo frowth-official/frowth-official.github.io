@@ -20,6 +20,8 @@ excerpt: >-
 - [Threads](https://www.threads.net/@frowth_official)
 - [Medium](https://frowth.medium.com/)
 
+---
+
 <ul class="post-list">
   {% for post in site.posts limit:3 %}
     <li class="post-item">
